@@ -1,5 +1,5 @@
 # 🚀 Gen AI Hub  
-### AI-Powered Content Creation & Resume Review Platform
+### AI-Powered Content Creations & Resume Review Platform
 
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 ![Status](https://img.shields.io/badge/Status-Live-success)
